@@ -1,4 +1,4 @@
-import Layout from "@/layout/layout";
+import Layout from "@/layout/Layout";
 import useQuiosco from "@/hooks/useQuiosco";
 import ResumenPedido from "@/components/ResumenPedido";
 import { useRouter } from "next/router";

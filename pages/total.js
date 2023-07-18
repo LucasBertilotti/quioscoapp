@@ -1,5 +1,5 @@
 import useQuiosco from "@/hooks/useQuiosco";
-import Layout from "@/layout/layout";
+import Layout from "@/layout/Layout";
 import { useCallback, useEffect } from "react";
 import {formatearDinero } from "../helpers"
 
